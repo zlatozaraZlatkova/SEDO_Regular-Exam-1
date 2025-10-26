@@ -55,7 +55,7 @@ h1 {
 }
 
 button {
-    background-color: #28a745; /* Green */
+    background-color: #5c67f2;
     color: white;
     /* *** Remove border: none; Add border style *** */
     /* border: none; */ /* REMOVED */
@@ -75,10 +75,4 @@ button:hover {
 button:active {
     background-color: #3e47a1;
     border-color: #3e47a1; /* Keep border color on active consistent */
-}
-    background-color: #218838; /* Darker Green */
-}
-
-button:active {
-    background-color: #1e7e34; /* Even Darker Green */
 }
